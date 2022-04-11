@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfDirector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Director>
+    <director_name>Esmail</director_name>
+  </Director>
+  <Director>
+    <director_name>helmy</director_name>
+  </Director>
+  <Director>
+    <director_name>lithy</director_name>
+  </Director>
+  <Director>
+    <director_name>mohammed</director_name>
+  </Director>
+</ArrayOfDirector>

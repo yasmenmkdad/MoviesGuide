@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <movie>
+    <ID>103</ID>
+    <title>film3</title>
+    <director>mohammed</director>
+    <year>2016</year>
+    <Rating>16</Rating>
+    <poster>
+    </poster>
+    <Generes>Adventure</Generes>
+    <Generes>Comedy</Generes>
+  </movie>
+  <movie>
+    <ID>3</ID>
+    <title>film3</title>
+    <director>mohammed</director>
+    <year>2016</year>
+    <Rating>16</Rating>
+    <poster>
+    </poster>
+    <Generes>Adventure</Generes>
+    <Generes>Comedy</Generes>
+  </movie>
+  <movie>
+    <ID>4</ID>
+    <title>film4</title>
+    <director>mohammed</director>
+    <year>2016</year>
+    <Rating>16</Rating>
+    <poster>
+    </poster>
+    <Generes>Adventure</Generes>
+    <Generes>Comedy</Generes>
+  </movie>
+</ArrayOfMovie>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <movie>
+    <ID>454</ID>
+    <title>popos4</title>
+    <director>lithy</director>
+    <year>2017</year>
+    <Rating>20</Rating>
+    <poster>
+    </poster>
+    <Generes>Comedy</Generes>
+    <Generes>Crime</Generes>
+    <Generes>Drama</Generes>
+  </movie>
+  <movie>
+    <ID>454</ID>
+    <title>popos4</title>
+    <director>lithy</director>
+    <year>2017</year>
+    <Rating>20</Rating>
+    <poster>
+    </poster>
+    <Generes>Comedy</Generes>
+    <Generes>Crime</Generes>
+    <Generes>Drama</Generes>
+  </movie>
+  <movie>
+    <ID>4</ID>
+    <title>popos4</title>
+    <director>lithy</director>
+    <year>2017</year>
+    <Rating>20</Rating>
+    <poster>
+    </poster>
+    <Generes>Action</Generes>
+  </movie>
+</ArrayOfMovie>
